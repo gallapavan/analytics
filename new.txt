@@ -1,0 +1,1 @@
+hi we are learning azure adf and data bricks
