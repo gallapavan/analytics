@@ -1,1 +1,3 @@
 hi we are learning azure adf and data bricks
+i have joined azure data engineering in banglore on 8aug 2025
+
